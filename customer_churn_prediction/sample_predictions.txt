@@ -1,0 +1,10 @@
+	Male	0	Yes	Yes	20	Yes	No	Month-to-month	1470.95	Yes
+    Male	0	Yes	No	72	Yes	Yes	Two year	    7422.1	No
+	Female	0	Yes	No	59	Yes	Yes	Month-to-month	5386.5	No
+	Male	1	No	No	51	Yes	Yes	Month-to-month	4913.3	Yes
+	Female	0	No	No	4	Yes	No	Month-to-month	319.6	No
+	Male	0	No	No	57	No	No phone service	Month-to-month	2111.45	Yes
+	Female	1	No	No	45	Yes	Yes	Month-to-month	4385.05	No
+	Female	0	No	No	1	Yes	No	Month-to-month	19.95	No
+	Male	0	Yes	No	44	Yes	Yes	Month-to-month	3626.35	No
+	Male	0	Yes	No	43	Yes	No	One year	    2391.15	No

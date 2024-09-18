@@ -1,0 +1,29 @@
+spam messages:
+
+1. "Subject: You've Won $1,000,000! Claim your prize now before it expires.
+Claim your prize"
+
+2. "Congratulations! You’re Our Lucky Winner You’ve won an exclusive prize. Click to claim.
+Claim your prize"
+
+3. "Final Notice: Loan Approval Your loan is pre-approved! Claim it now before the offer expires.
+Apply now"
+
+4."You've Won $1,000,000! Claim your prize now before it expires.
+Claim your prize"
+
+Not Spam Messages:
+
+1. "Project Update Request Could you send me the latest update on the project when you have a chance?
+Thanks!"
+
+2."Coffee Meeting Confirmation Just confirming our coffee meeting at 3 PM tomorrow. Looking forward to it!"
+
+3. "Team Lunch on Friday We’re planning a team lunch this Friday at 1 PM. Let me know if you can make it!"
+
+4. "Quick Reminder – Submit Your Report Just a friendly reminder to submit your report by the end of the day.
+Thanks!"
+
+
+
+thanks for watching!
